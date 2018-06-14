@@ -1,0 +1,11 @@
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\bin\Debug\netcoreapp2.0\atoi.deps.json
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\bin\Debug\netcoreapp2.0\atoi.runtimeconfig.json
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\bin\Debug\netcoreapp2.0\atoi.runtimeconfig.dev.json
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\bin\Debug\netcoreapp2.0\atoi.dll
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\bin\Debug\netcoreapp2.0\atoi.pdb
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.csprojResolveAssemblyReference.cache
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.csproj.CoreCompileInputs.cache
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.AssemblyInfoInputs.cache
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.AssemblyInfo.cs
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.dll
+c:\users\kdunn102\documents\visual studio 2017\Projects\atoi\atoi\obj\Debug\netcoreapp2.0\atoi.pdb

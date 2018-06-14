@@ -1,0 +1,7 @@
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\bin\Debug\StringToInt.exe.config
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\bin\Debug\StringToInt.exe
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\bin\Debug\StringToInt.pdb
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\obj\Debug\StringToInt.csprojResolveAssemblyReference.cache
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\obj\Debug\StringToInt.csproj.CoreCompileInputs.cache
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\obj\Debug\StringToInt.exe
+c:\Users\kdunn102\documents\visual studio 2017\Projects\atoi\StringToInt\obj\Debug\StringToInt.pdb
